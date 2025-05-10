@@ -1,0 +1,90 @@
+{
+ "arsc_lib_version": "1.2.5",
+ "package_id": 127,
+ "package_name": "com.whywaste.wwapp2",
+ "specs": [
+  {"spec": {"id": 1}},
+  {"spec": {
+   "id": 2,
+   "spec_flags": [
+    {
+     "id": 9,
+     "flag": 4096
+    },
+    {
+     "id": 11,
+     "flag": 4096
+    },
+    {
+     "id": 12,
+     "flag": 4096
+    },
+    {
+     "id": 14,
+     "flag": 4096
+    },
+    {
+     "id": 15,
+     "flag": 4096
+    },
+    {
+     "id": 16,
+     "flag": 4096
+    },
+    {
+     "id": 17,
+     "flag": 4096
+    }
+   ]
+  }},
+  {"spec": {"id": 3}},
+  {"spec": {
+   "id": 4,
+   "spec_flags": [
+    {
+     "id": 12,
+     "flag": 4096
+    },
+    {
+     "id": 14,
+     "flag": 4096
+    },
+    {
+     "id": 17,
+     "flag": 4096
+    }
+   ]
+  }},
+  {"spec": {"id": 5}},
+  {"spec": {"id": 6}},
+  {"spec": {"id": 7}},
+  {"spec": {
+   "id": 8,
+   "spec_flags": [
+    {
+     "id": 0,
+     "flag": 256
+    },
+    {
+     "id": 1,
+     "flag": 256
+    }
+   ]
+  }},
+  {"spec": {"id": 9}},
+  {"spec": {
+   "id": 10,
+   "spec_flags": [
+    {
+     "id": 0,
+     "flag": 4096
+    },
+    {
+     "id": 1,
+     "flag": 4096
+    }
+   ]
+  }},
+  {"spec": {"id": 12}}
+ ]
+}

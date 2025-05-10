@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <attr name="activityAction" formats="string" />
+  <attr name="activityName" formats="string" />
+  <attr name="alpha" formats="float" />
+  <attr name="alwaysExpand" formats="bool" />
+  <attr name="buttonSize" formats="reference">
+    <enum name="standard">0</enum>
+    <enum name="wide">1</enum>
+    <enum name="icon_only">2</enum>
+  </attr>
+  <attr name="circleCrop" formats="bool" />
+  <attr name="clearTop" formats="bool" />
+  <attr name="colorScheme" formats="reference">
+    <enum name="dark">0</enum>
+    <enum name="light">1</enum>
+    <enum name="auto">2</enum>
+  </attr>
+  <attr name="finishPrimaryWithSecondary" formats="bool" />
+  <attr name="finishSecondaryWithPrimary" formats="bool" />
+  <attr name="font" formats="reference" />
+  <attr name="fontProviderAuthority" formats="string" />
+  <attr name="fontProviderCerts" formats="reference" />
+  <attr name="fontProviderFetchStrategy">
+    <enum name="blocking">0</enum>
+    <enum name="async">1</enum>
+  </attr>
+  <attr name="fontProviderFetchTimeout" formats="integer">
+    <enum name="forever">-1</enum>
+  </attr>
+  <attr name="fontProviderPackage" formats="string" />
+  <attr name="fontProviderQuery" formats="string" />
+  <attr name="fontProviderSystemFontFamily" formats="string" />
+  <attr name="fontStyle">
+    <enum name="normal">0</enum>
+    <enum name="italic">1</enum>
+  </attr>
+  <attr name="fontVariationSettings" formats="string" />
+  <attr name="fontWeight" formats="integer" />
+  <attr name="imageAspectRatio" formats="float" />
+  <attr name="imageAspectRatioAdjust">
+    <enum name="none">0</enum>
+    <enum name="adjust_width">1</enum>
+    <enum name="adjust_height">2</enum>
+  </attr>
+  <attr name="lStar" formats="float" />
+  <attr name="nestedScrollViewStyle" formats="reference" />
+  <attr name="placeholderActivityName" formats="string" />
+  <attr name="primaryActivityName" formats="string" />
+  <attr name="queryPatterns" formats="reference" />
+  <attr name="scopeUris" formats="reference|string" />
+  <attr name="secondaryActivityAction" formats="string" />
+  <attr name="secondaryActivityName" formats="string" />
+  <attr name="shortcutMatchRequired" formats="bool" />
+  <attr name="splitLayoutDirection">
+    <enum name="locale">0</enum>
+    <enum name="ltr">1</enum>
+    <enum name="rtl">2</enum>
+  </attr>
+  <attr name="splitMinSmallestWidth" formats="dimension" />
+  <attr name="splitMinWidth" formats="dimension" />
+  <attr name="splitRatio" formats="float" />
+  <attr name="ttcIndex" formats="integer" />
+</resources>
