@@ -1,4 +1,4 @@
-**﻿Why Waste App Overview
+Why Waste App Overview
 
 1. Purpose:
 
@@ -32,7 +32,7 @@ Flutter allows the app to run on both iOS and Android devices.
 
 4. Goal:
 
-The main goal of the app is to fulfill the SDG goals, especially those related to water (SDG 6: Clean Water and Sanitation), by empowering users with knowledge and tools to conserve water effectivelvely**
+The main goal of the app is to fulfill the SDG goals, especially those related to water (SDG 6: Clean Water and Sanitation), by empowering users with knowledge and tools to conserve water effectivelvely
 
 ## Tech Stack
 
